@@ -23,6 +23,9 @@ This repository contains documentation, screenshots, and source code related to 
 2. **Screenshots**: Browse the `Screenshots_handsmen_Thread` folder for visual references to the application's features and workflows.
 3. **Source Code**: Review the triggers in `Source_code_HM` for business logic related to orders and inventory.
 
+## Video Link for the Project
+*https://drive.google.com/file/d/1BxOKILBkDdXnv0ks3TKXmzOh2UzJ7vwj/view?usp=sharing*
+
 ## Usage
 - Use the documentation and screenshots to understand the business processes and application flows.
 - The source code files can be used as reference or imported into your Salesforce or similar environment if applicable.
